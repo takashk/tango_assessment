@@ -1,0 +1,22 @@
+{
+  "name": "tango_website_sign_in_cy",
+  "version": "1.0.0",
+  "description": "Tango Website Cypress test for Sign-in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takashk/tango_assessment.git"
+  },
+  "author": "Kyo Takashima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takashk/tango_assessment/issues"
+  },
+  "homepage": "https://github.com/takashk/tango_assessment#readme",
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  }
+}
